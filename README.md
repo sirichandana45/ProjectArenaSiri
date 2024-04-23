@@ -1,4 +1,11 @@
 # ProjectArenaSiri
+<h2>File Structure of Project</h2>
+cpanel: Stores configuration files and settings related to your hosting control panel<br>
+softaculous: Related to the Softaculous App Installer, it contains scripts and backups for software installed using Softaculous.<br>
+htaccess: A configuration file for use with Apache Web Server. It can control high-level settings of your website.<br>
+wp-admin: Contains the files necessary for the WordPress administrative dashboard.<br>
+wp-content: This is where themes, plugins, and uploads are stored. Essentially, it's the folder that contains most user-generated and customizable data.<br>
+wp-includes: The core WordPress files that are necessary for the CMS to function but generally not modified by the user.<br>
 
 <h2>Hosting and Domain: </h2>
 Dashinfinity is used as a hosting provider as it supports WordPress. We've also registered a domain name that aligns well with my store..<br>
